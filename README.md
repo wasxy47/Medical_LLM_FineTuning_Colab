@@ -11,7 +11,7 @@ This project fine-tunes a medical language model using QLoRA and Unsloth in Goog
 - Generates medical responses to unseen queries
 
 ## How to Use
-1. Open the Colab notebook `Medical_QLoRA_FineTuning_Unsloth.ipynb`
+1. Open the Colab notebook `Medical_LLM_FineTuning.ipynb`
 2. Install required packages
 3. Run the notebook step by step to train and test the model
 
